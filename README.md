@@ -15,21 +15,21 @@ Der Fokus liegt auf einfacher Bedientbarkeit, einem leichten aber schönen Desig
 
 Funktionen: 
 
-Loging und Regristierung => über Firebase Authentication 
-Rauchstopp Datum => Auswahl über Datetime Picker
-Stastik Übersicht => Rauchfreie Tage, Geld gespart, nicht gerauchte Zigis 
-Kostenberechnung => Basieren auf persönlichen Angaben
-Slip Days => Rückfälle werden berücksichtigt 
-Automatische Aktualisierung => Die Statistik aktualisiert sich täglich 
-Responsive Design => Für mobiel Geräte optimiert (iOS und Android) 
+- Loging und Regristierung => über Firebase Authentication 
+- Rauchstopp Datum => Auswahl über Datetime Picker
+- Stastik Übersicht => Rauchfreie Tage, Geld gespart, nicht gerauchte Zigis 
+- Kostenberechnung => Basieren auf persönlichen Angaben
+- Slip Days => Rückfälle werden berücksichtigt 
+- Automatische Aktualisierung => Die Statistik aktualisiert sich täglich 
+- Responsive Design => Für mobiel Geräte optimiert (iOS und Android) 
 
 Technologien: 
 
-React Native (Expo) => Frontend und mobile UI 
-Fire Base Authentication => Login und Registrierung
-JavaScript => Logik und Berechnungen 
-React Native Modal Datetime Picker => Datumsauswahl 
-Google Fonts => Design und UI 
+- React Native (Expo) => Frontend und mobile UI 
+- Fire Base Authentication => Login und Registrierung
+- JavaScript => Logik und Berechnungen 
+- React Native Modal Datetime Picker => Datumsauswahl 
+- Google Fonts => Design und UI 
 
 
 Installation der App: 
