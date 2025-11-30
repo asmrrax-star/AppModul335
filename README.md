@@ -48,18 +48,18 @@ npx expo start => QR Code scannen mit der Expo Go App scannen
 Firebase Setup: 
 in App.js die folgenden Konfigurationsdaten definieren: 
 
-const firebaseConfig = {
+- const firebaseConfig = {
   apiKey: "...",
   authDomain: "...",
   projectId: "...",
   ...
 };
-Das Firebase Projekt muss vorher auf https://console.firebase.google.com erstellt werden!
+- Das Firebase Projekt muss vorher auf https://console.firebase.google.com erstellt werden!
 
 
 geplante Erweiterungen: 
-Ziele und Meilensteine (zB nach gewisser Anzahl der Tage)
-Verlauf und Diagramme 
+- Ziele und Meilensteine (zB nach gewisser Anzahl der Tage)
+- Verlauf und Diagramme 
 
 Entwickler:
 Srecko Radisavljevic 
