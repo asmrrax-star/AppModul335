@@ -31,10 +31,13 @@ Technologien:
 - React Native Modal Datetime Picker => Datumsauswahl 
 - Google Fonts => Design und UI 
 
+HINWEIS:  In dieser App wurde alles in einer Datei gehalten.
+In App.js ist die komplette Logik und UI umgesetzt.
+ Für produktive Projekte würde die Struktur modularisiert erolgen (Screens, Komonenten, Services etc
 
 Installation der App: 
 Repository klonen:
-'''bash
+- '''bash
 git clone 
 cd AppModul335
 
