@@ -42,11 +42,11 @@ git clone
 cd AppModul335
 
 Die Abhänigkeiten installieren: 
-npm install 
-npx expo install react-native-modal-datetime-picker @react-native-community/datetimepicker
+- npm install 
+- npx expo install react-native-modal-datetime-picker @react-native-community/datetimepicker
 
 Die App starten:
-npx expo start => QR Code scannen mit der Expo Go App scannen
+- npx expo start => QR Code scannen mit der Expo Go App scannen
 
 Firebase Setup: 
 in App.js die folgenden Konfigurationsdaten definieren: 
