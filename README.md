@@ -33,7 +33,8 @@ Technologien:
 
 HINWEIS:  In dieser App wurde alles in einer Datei gehalten.
 In App.js ist die komplette Logik und UI umgesetzt.
- Für produktive Projekte würde die Struktur modularisiert erolgen (Screens, Komonenten, Services etc
+ Für produktive Projekte würde die Struktur modularisiert erolgen (Screens, Komonenten, Services etc)
+ 
 
 Installation der App: 
 Repository klonen:
