@@ -30,10 +30,10 @@ import logo from "./assets/NoSmoke.jpg";
 
 // Firebase Setup
 const firebaseConfig = {
-  apiKey: "AIzaSyCbu8KDUZc2BVO8dB62XGxtSFq2BsF_jGA",
-  authDomain: "antismokeapp.firebaseapp.com",
+  apiKey: "API_KEY_ENTFERNT",
+  authDomain: "PROJEKT_DOMAIN",
   databaseURL:
-    "https://antismokeapp-default-rtdb.europe-west1.firebasedatabase.app",
+    "PROJEKT_ID",
   projectId: "antismokeapp",
   storageBucket: "antismokeapp.firebasestorage.app",
   messagingSenderId: "514643620958",
